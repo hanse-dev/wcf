@@ -104,7 +104,7 @@ export const ConceptBold: React.FC = () => {
             <div>
               <h2 className="font-display text-6xl font-bold uppercase mb-2">Ready?</h2>
               <a href="#" className="text-2xl font-bold text-bold-orange underline decoration-2 underline-offset-4 hover:text-white transition-colors">
-                Book your free trial session ->
+                Book your free trial session →
               </a>
             </div>
             <div className="text-right">
